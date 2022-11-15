@@ -1,4 +1,4 @@
-Django==1.6.1
+Django==3.2.15
 Flask==0.10.1
 Jinja2==2.7.1
 Markdown==2.3.1
@@ -29,3 +29,4 @@ wiki==0.0.23
 django-floppyforms==1.1.1
 PyQRCode==1.2.1
 pypng==0.0.18
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
