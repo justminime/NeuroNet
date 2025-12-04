@@ -2,7 +2,7 @@ certifi==2017.11.5
 chardet==3.0.4
 dj-database-url==0.2.2
 dj-static==0.0.5
-Django==1.6.1
+Django==4.2.27
 django-classy-tags==0.4
 django-cors-headers==1.1.0
 django-extensions==1.2.5
@@ -45,5 +45,5 @@ South==0.8.4
 static==0.4
 urllib3==1.22
 vobject==0.9.5
-Werkzeug==0.9.4
+Werkzeug==3.1.4
 wiki==0.0.23
